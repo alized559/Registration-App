@@ -17,4 +17,4 @@ react-native run-android <br>
 react-native run-ios
 
 ## Output Screenshots
-![alt text](http://url/to/'https://abcntechnologies.com/wp-content/uploads/2019/12/reactjs.png')
+![alt text](https://abcntechnologies.com/wp-content/uploads/2019/12/reactjs.png)
