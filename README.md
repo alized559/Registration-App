@@ -17,4 +17,4 @@ react-native run-android <br>
 react-native run-ios
 
 ## Output Screenshots
-![alt text](![Home](https://user-images.githubusercontent.com/67167435/138688621-7219bb72-d1e1-4c1b-b2b3-4e14587cbb14.png))
+![alt text](https://user-images.githubusercontent.com/67167435/138688621-7219bb72-d1e1-4c1b-b2b3-4e14587cbb14.png)
