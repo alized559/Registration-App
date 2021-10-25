@@ -8,7 +8,7 @@ This repository represents react native login-signup code
 - npm install react-native-fast-image
 
 ## Create Directory
-mkdir Screens
+mkdir Screens <br>
 touch ./Screens/Splash.js ./Screens/Home.js ./Screens/Login.js ./Screens/Register.js
 
 ## To Run the React Native App
