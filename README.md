@@ -17,8 +17,8 @@ react-native run-android <br>
 react-native run-ios
 
 ## Output Screenshots
-<div float="left" margin: 10px>
-<img src="https://user-images.githubusercontent.com/67167435/138688848-43de26bf-6cbc-41d9-b981-d06af4e25317.png" alt="drawing" width="200"/>
+<div float="left">
+<img src="https://user-images.githubusercontent.com/67167435/138688848-43de26bf-6cbc-41d9-b981-d06af4e25317.png" alt="drawing" width="200" margin-left: 10px/>
 <img src="https://user-images.githubusercontent.com/67167435/138688761-6fdf4f40-4b44-4f98-b9a9-5ccdc6295a41.png" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/67167435/138688815-f91d1c18-c219-4469-9daa-fe93922abe0e.png" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/67167435/138688621-7219bb72-d1e1-4c1b-b2b3-4e14587cbb14.png" alt="drawing" width="200"/>
