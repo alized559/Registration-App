@@ -1,7 +1,7 @@
 # Registration-App
 This repository represents react native login-signup code
 
-# Installation of Dependencies
+## Installation of Dependencies
 - npm install @react-navigation/native
 - npm install @react-navigation/stack
 - npm install @react-native-firebase/auth
