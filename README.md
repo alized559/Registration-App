@@ -15,3 +15,6 @@ touch ./Screens/Splash.js ./Screens/Home.js ./Screens/Login.js ./Screens/Registe
 cd Registration <br>
 react-native run-android <br>
 react-native run-ios
+
+## Output Screenshots
+![alt text](http://url/to/'https://abcntechnologies.com/wp-content/uploads/2019/12/reactjs.png')
