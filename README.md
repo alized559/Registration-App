@@ -7,11 +7,11 @@ This repository represents react native login-signup code
 - npm install @react-native-firebase/auth
 - npm install react-native-fast-image
 
-# Create Directory
+## Create Directory
 mkdir Screens
 touch ./Screens/Splash.js ./Screens/Home.js ./Screens/Login.js ./Screens/Register.js
 
-# To Run the React Native App
+## To Run the React Native App
 cd Registration
 react-native run-android
 react-native run-ios
